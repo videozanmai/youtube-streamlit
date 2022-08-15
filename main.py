@@ -4,7 +4,7 @@ import pandas as pd
 from PIL import Image
 import time
 
-st.title('streamlit超')
+st.title('streamlit超入門を更新')
 st.write('プログレスバーの表示')
 'start!!!'
 latest_iteration = st.empty()
